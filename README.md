@@ -4,6 +4,15 @@ O teste consiste em 5 questões que envolvem o conhecimentos de orientação a o
 
 As respostas para os exercícios se encontram nas suas respectivas pastas.
 
+## Recursos utilizadas
+- .NET 6
+- CQRS
+- MediatR
+- Swagger
+- SQLite
+- xUnit
+- NSubstitute
+
 ## Ponderações
 1) Na questão 2, o resultado esperado informado na questão está incorreto. O resultado correto é:
     - Team Paris Saint-Germain scored 87 goals in 2013
