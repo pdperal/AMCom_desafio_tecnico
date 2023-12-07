@@ -14,10 +14,10 @@ As respostas para os exercícios se encontram nas suas respectivas pastas.
 - NSubstitute
 
 ## Ponderações
-1) Na questão 2, o resultado esperado informado na questão está incorreto. O resultado correto é:
+1) Na questão 2, o resultado esperado informado na questão está incorreto. O resultado abaixo foi obtido tanto através da implementação do código quanto validação manual do retorno da API via navegador.
     - Team Paris Saint-Germain scored 87 goals in 2013
     - Team Chelsea Scored 61 goals in 2014.
-    O resultado acima foi obtido tanto através da implementação do código quanto validação manual do retorno da API via navegador.
+    
     
 2) Como sugestão para utilização de uma camada de idempotência, o Redis seria uma boa solução pelos seguintes motivos:
     - Rápido acesso: Redis é um banco de dados em memória frequentemente utilizado para cache, por isso o acesso a dados é extremamente rápido.
